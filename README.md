@@ -5,7 +5,7 @@ Priority-based Round Robin CPU scheduling simulator with performance analysis an
 ## Features
 
 - **Round Robin Scheduling**: Time-sliced execution with configurable quantum
-- **Priority-Based Scheduling** (Extra Credit): Combines static priority levels with Round Robin fairness
+- **Priority-Based Scheduling** : Combines static priority levels with Round Robin fairness
 - **Performance Metrics**:
   - Average Turnaround Time
   - Average Waiting Time  
